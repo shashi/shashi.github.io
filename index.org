@@ -1,1 +1,5 @@
-* Hi.
+#+TITLE: Shashi Gowda
+#+DATE: <2014-07-03 Thu>
+#+AUTHOR: gowda
+
+I dabble in [[https://github.com/shashi][code]], design, and web development. Right now, I am a [[http://google-melange.com][GSoC]] student for [[http://julialang.org/][The Julia Language]].
