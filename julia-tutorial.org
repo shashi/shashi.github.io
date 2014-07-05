@@ -1,5 +1,6 @@
 #+TITLE: Julia for the Average Joe Coder
-#+STYLE: <link rel="stylesheet" href="./css/style.css"/>
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/stylesheet.css" />
+
 I don't do technical computing or anything of that sort but Julia is my new favorite language.
 I have successfully replaced Python with Julia as my go-to language of choice. And boy am I a happy person.
 Julia is a very pleasant langugage.

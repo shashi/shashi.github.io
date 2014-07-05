@@ -1,5 +1,14 @@
-#+TITLE: Shashi Gowda
+#+TITLE: shashi gowda
 #+DATE: <2014-07-03 Thu>
 #+AUTHOR: gowda
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/stylesheet.css" />
 
-I dabble in [[https://github.com/shashi][code]], design, and web development. Right now, I am a [[http://google-melange.com][GSoC]] student for [[http://julialang.org/][The Julia Language]].
+I dabble in [[https://github.com/shashi][code]], design, and web development. @@html:<br/>@@
+Right now, I am a [[http://google-melange.com][GSoC]] student for [[http://julialang.org/][The Julia Language]].
+
+#+HTML: <div class="hmenu">
+- [[https://github.com/shashi][github]]
+- [[http://twitter.com/g0wda][twitter]]
+- @@html:<a href="#" onclick="(function(e) { e.innerHTML = ['shashigowda91', 'gmail.com'].join('@')})(this);">email</a>@@
+#+HTML: </div>
+
