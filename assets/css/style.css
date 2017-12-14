@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Barlow:500|Nunito+Sans:400,400i,700,700i');
+
+body {
+    font-family: 'Nunito Sans';
+    font-weight: 400;
+}
+
+h1, h2, h3, h4 {
+    font-family: Barlow;
+    font-weight: 500;
+}
+
+.mypage {
+    margin-left: 96px;
+}
