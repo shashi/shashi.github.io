@@ -1,15 +1,30 @@
 @import url('https://fonts.googleapis.com/css?family=Barlow:500|Nunito+Sans:400,400i,700,700i');
-
+@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville|Merriweather+Sans|Questrial|Work+Sans');
 body {
     font-family: 'Nunito Sans';
     font-weight: 400;
 }
 
 h1, h2, h3, h4 {
-    font-family: Barlow;
+    font-family: 'Questrial';
     font-weight: 500;
 }
 
 .mypage {
     margin-left: 96px;
+}
+
+a {
+    color: #dd4433;
+    text-decoration: none;
+}
+a:hover {
+    border-bottom: 1px dashed #ee5544;
+}
+
+
+.card {
+    box-shadow: 0 0px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 3px; /* 5px rounded corners */
 }

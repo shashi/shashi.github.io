@@ -1,15 +1,83 @@
 ---
 layout: common
-title: Shashi Gowda&emdash;Home Page
+title: Shashi Gowda—Home Page
 ---
 
-<div class="mypage u-container u-cols-8">
+<div class="mypage u-container">
     <div class="u-vskip"></div>
     <div class="u-vskip-2"></div>
     <h1 class="u-title-medium text-gray-2">Shashi Gowda</h1>
+    <div class="u-hbox">
+        <div class="u-cols-5">
     <div class="u-vskip"></div>
-    <div>
-        I'm a programmer at <a href="https://juliacomputing.com">Julia Computing</a>, and previously worked for the <a href="http://julia.mit.edu/">The Julia Lab</a>. My interests are broadly to make scientific computing easy by building useful tools for parallelism, visualization and data analysis. Currently I'm working mostly on <a href="http://juliadb.org">JuliaDB</a>.
+            I'm a programmer at <a href="https://juliacomputing.com">Julia Computing</a>. I previously worked for the <a href="http://julia.mit.edu/">The Julia Lab</a>. My interests are broadly in making scientific computing easy and effective by building tools for parallelism, visualization and data analysis. <div class="u-vskip"></div>I'm currently working most on <a href="http://juliadb.org">JuliaDB</a>.
+        </div>
+        <div class="u-cols-3">
+            <img src="/assets/img/nyc.jpg" style="height:200px; width: auto;">
+        </div>
     </div>
 
+  <div class="u-container">
+    <h2 class="u-title-small text-gray-2">Projects</h2>
+    <div class="u-vskip"></div>
+    <div class="u-hbox"><div class="u-hskip"></div>Here are some Julia packages I have worked on or am working on.</div>
+    <div class="u-vskip"></div>
+    <div class="u-hbox">
+        {% include project.html
+        title="JuliaDB"
+        desc="Distributed in-memory database written in Julia."
+        webtype="Website"
+        url="http://juliadb.org"
+        github="https://github.com/JuliaComputing/JuliaDB.jl"
+        %}
+
+        {% include project.html
+        title="TextParse"
+        desc="Fast just-in-time generated CSV parser for Julia."
+        webtype="Website"
+        url="https://juliacomputing.com/TextParse.jl/latest"
+        github="https://github.com/JuliaComputing/TextParse.jl"
+        %}
+
+        {% include project.html
+        title="WebIO"
+        desc="Low level tools for web widgets"
+        github="https://github.com/JuliaGizmos/WebIO.jl"
+        %}
+
+        {% include project.html
+        title="Dagger"
+        desc="A parallel scheduler for Julia"
+        github="https://github.com/JuliaComputing/Dagger.jl"
+        %}
+
+        {% include project.html
+        title="Interact"
+        desc="Manipulate output with simple widgets in Jupyter"
+        webtype="Examples"
+        url="https://github.com/JuliaGizmos/Interact.jl/issues/36"
+        github="https://github.com/JuliaGizmos/Interact.jl"
+        %}
+
+        {% include project.html
+        title="Escher"
+        desc="(dormant) experiments in web-based UIs"
+        webtype="Website"
+        url="http://escher-jl.org"
+        github="https://github.com/shashi/Escher.jl"
+        %}
+    </div>
+    <div class="u-vskip"></div>
+
+    <h2 class="u-title-small text-gray-2">Fun stuff</h2>
+    <div class="u-vskip"></div>
+    <div class="u-hbox"><div class="u-hskip"></div>Here are some interesting Jupyter notebooks.</div>
+    <ul>
+        <li><a href="https://shashi.github.io/ijulia-notebooks/funcgeo/">Functional Geometry</a> &mdash; a reproduction of MC Escher's <a href="https://www.wikiart.org/en/m-c-escher/square-limit"<em>Square Limit</em></a></li>
+        <li><a href="https://gist.github.com/shashi/9ad9de91d1aa12f006c4">APL and Julia</a> &mdash; a JIT-friendly APL interpreter</li>
+  </div>
+
+
+  <div class="u-vskip-2"></div>
+ 
 </div>
