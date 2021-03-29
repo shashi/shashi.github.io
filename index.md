@@ -8,7 +8,7 @@ I am a PhD student in Computational Science and Engineering at MIT.
 
 I'm exploring [program transformations](https://en.wikipedia.org/wiki/Program_transformation) for scientific computing using the [Julia programming language](https://julialang.org/). I'm interested in rule-based expression rewriting, high-performance computing, and interactive visualization software.
 
-I'm excited by software tools that make life easier for those who do and teach Science.  My advisor is [Prof. Alan Edelman](http://www-math.mit.edu/~edelman/). In Fall 2020, I am a teaching assistant for the [18.S191 Introduction to Computational Thinking](https://computationalthinking.mit.edu/) course. It's online and free for anyone!
+I'm excited by software tools that make life easier for those who do and teach Science.  My advisor is [Prof. Alan Edelman](http://www-math.mit.edu/~edelman/). In Fall 2020, I was a teaching assistant for the [18.S191 Introduction to Computational Thinking](https://computationalthinking.mit.edu/) course. It's online and free for anyone!
 
 Previously, I was a Principal Software Engineer at [Julia Computing](https://juliacomputing.com) where I co-developed [JuliaDB](https://juliadb.org/).
 
@@ -23,6 +23,16 @@ These are projects I am currently working on. All these projects are in the Juli
 
  <div class="u-container">
     <div class="u-hbox">
+
+<div class="u-cols-4 u-margins">
+    <a href="https://juliasymbolics.org/"><h3 class="u-highlight-medium">Symbolics</h3></a>
+  <div>
+      (co-author with <a href="https://yingboma.github.io/">Yingbo Ma</a> and others) A fast and modern CAS for a fast and modern language. I am spending most of my time on this and related projects.
+  </div>
+  <div>
+      <a href="https://github.com/JuliaParallel/Symbolics.jl">Github</a> | <a href="https://juliasymbolics.org/">website</a>
+  </div>
+</div>
 
 <div class="u-cols-4 u-margins">
     <a href="https://juliasymbolics.github.io/SymbolicUtils.jl/"><h3 class="u-highlight-medium text-gray-3">SymbolicUtils</h3></a>
