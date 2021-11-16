@@ -2,13 +2,13 @@
 
 
 # Bio
-~~~<img style="float: right; margin-bottom: 1em; width: 320px" src="/assets/beach.jpg">~~~
+~~~<img style="float: right; margin-bottom: 1em; width: 320px" src="/assets/pp.jpg">~~~
 
 I am a PhD student in Computational Science and Engineering at MIT.
 
 I'm exploring [program transformations](https://en.wikipedia.org/wiki/Program_transformation) for scientific computing using the [Julia programming language](https://julialang.org/). I'm interested in rule-based expression rewriting, high-performance computing, and interactive visualization software.
 
-I'm excited by software tools that make life easier for those who do and teach Science.  My advisor is [Prof. Alan Edelman](http://www-math.mit.edu/~edelman/). In Fall 2020, I was a teaching assistant for the [18.S191 Introduction to Computational Thinking](https://computationalthinking.mit.edu/) course. It's online and free for anyone!
+I'm excited by software tools that make life easier for engineers and scientists who do technical computing. I love knowing about every level of abstraction of computers -- from registers and cache lines to compilers and programming language design.  My advisor is [Prof. Alan Edelman](http://www-math.mit.edu/~edelman/). In Fall 2020, I was a teaching assistant for the [18.S191 Introduction to Computational Thinking](https://computationalthinking.mit.edu/) course. It's online and free for anyone!
 
 Previously, I was a Principal Software Engineer at [Julia Computing](https://juliacomputing.com) where I co-developed [JuliaDB](https://juliadb.org/).
 
