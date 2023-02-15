@@ -12,9 +12,9 @@ I'm excited by software tools that make life easier for engineers and scientists
 
 Previously, I was a Principal Software Engineer at [Julia Computing](https://juliacomputing.com) where I co-developed [JuliaDB](https://juliadb.org/).
 
-## Contact info
+## CV/Contact info
 
-You can email me at ~~~<emph>gowda<img style="width: 15px; height: 16px; padding:0; margin-bottom:-4px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/At_%28%40%29_symbol.svg/217px-At_%28%40%29_symbol.svg.png">mit.edu</emph>~~~. I hang out on the [Julia Language slack](http://slackinvite.julialang.org/) where my user name is @shashi. My Github profile is [here](https://github.com/shashi). I do not use Facebook or Instagram.
+<a href="resume.pdf">CV</a>. You can email me at ~~~<emph>gowda<img style="width: 15px; height: 16px; padding:0; margin-bottom:-4px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/At_%28%40%29_symbol.svg/217px-At_%28%40%29_symbol.svg.png">mit.edu</emph>~~~. I hang out on the [Julia Language slack](http://slackinvite.julialang.org/) where my user name is @shashi. My Github profile is [here](https://github.com/shashi). I do not use Facebook or Instagram.
 
 ## Projects
 
