@@ -16,7 +16,7 @@ Previously, I was a Principal Software Engineer at [Julia Computing](https://jul
 
 [Resume](resume.pdf). You can email me at ~~~<emph>gowda<img style="width: 15px; height: 16px; padding:0; margin-bottom:-4px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/At_%28%40%29_symbol.svg/217px-At_%28%40%29_symbol.svg.png">mit.edu</emph>~~~. I hang out on the [Julia Language slack](http://slackinvite.julialang.org/) where my user name is @shashi. My Github profile is [here](https://github.com/shashi).
 
-## Projects
+## Current projects
 
 These are projects I am currently working on. All these projects are in the Julia language.
 ~~~
@@ -76,7 +76,7 @@ These are projects I am currently working on. All these projects are in the Juli
 </div>
 
 ~~~
-### Previous projects
+### Past projects
 
 Projects that I wrote, that I now only occasionally help maintain.
 ~~~
