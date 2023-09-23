@@ -4,13 +4,15 @@
 # Bio
 ~~~<img style="float: right; margin-bottom: 1em; width: 320px" src="/assets/pp.jpg">~~~
 
-I am a PhD student in Computational Science and Engineering at MIT.
+I am a PhD student in Computational Science and Engineering at MIT advised by [Prof. Alan Edelman](http://www-math.mit.edu/~edelman/). I sit in CSAIL (7th Floor julia lab--come say hi!).
 
-I'm exploring [program transformations](https://en.wikipedia.org/wiki/Program_transformation) for scientific computing using the [Julia programming language](https://julialang.org/).
+I'm exploring the application of symbolic computing and partial evaluation to reason about, create and optimize numerical software.
 
-I'm excited by software tools that make it easier for engineers and scientists to do their research. I love knowing about every level of abstraction of computers -- from registers and cache lines to compilers and programming language design.  My advisor is [Prof. Alan Edelman](http://www-math.mit.edu/~edelman/). In Fall 2020, I was a teaching assistant for the [18.S191 Introduction to Computational Thinking](https://computationalthinking.mit.edu/) course. It's online and free for anyone!
+My broad vision for work is to make expression through code more accessible to broader groups of people: students, scientists, artists whose work may benefit hugely from programs that are expressed easily yet run efficiently. I am interested in the fields of program synthesis, symbolic systems, and programmable interpreters. I believe symbolic computing will be an increasingly re-accepted part of AI research and that we will see neural network architectures combine with symbolic computing and program synthesis like milk, sugar and chocolate, and this will change the way humans use computers.
 
-Previously, I was a Principal Software Engineer at [Julia Computing](https://juliacomputing.com) where I co-developed [JuliaDB](https://juliadb.org/).
+I love knowing about every level of abstraction of computers -- from registers and cache lines to compilers and programming language design.  In Fall 2020, I was a teaching assistant for the [18.S191 Introduction to Computational Thinking](https://computationalthinking.mit.edu/) course. It's online and free for anyone!
+
+Before I started my PhD, I was a Principal Software Engineer at [Julia Computing](https://juliacomputing.com) where I co-developed [JuliaDB](https://juliadb.org/).
 
 ## Resume/Contact info
 
