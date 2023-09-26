@@ -6,9 +6,9 @@
 
 I am a PhD student in Computational Science and Engineering at MIT advised by [Prof. Alan Edelman](http://www-math.mit.edu/~edelman/). I sit in CSAIL (7th Floor julia lab--come say hi!).
 
-I'm exploring the application of symbolic computing and partial evaluation to reason about, create and optimize numerical software.
+I'm exploring the application of symbolic computing and partial evaluation to generate, reason about, and optimize numerical software.
 
-My broad vision for work is to make expression through code more accessible to broader groups of people: students, scientists, artists whose work may benefit hugely from programs that are expressed easily yet run efficiently. I am interested in the fields of program synthesis, symbolic systems, and programmable interpreters. I believe symbolic computing will be an increasingly re-accepted part of AI research and that we will see neural network architectures combine with symbolic computing and program synthesis like milk, sugar and chocolate, and this will change the way humans use computers.
+My vision for work is to make expression through code more accessible to broader groups of people: scientists, artists, educators, students whose work may benefit hugely from programs that are expressed informally and easily yet run efficiently. I am interested in the fields of program synthesis, symbolic systems, and programmable interpreters. I believe symbolic computing will be an increasingly re-accepted part of AI research and that we will see neural network architectures combine with symbolic computing and program synthesis like milk, sugar and chocolate, changing the way level at which humans use computers.
 
 I love knowing about every level of abstraction of computers -- from registers and cache lines to compilers and programming language design.  In Fall 2020, I was a teaching assistant for the [18.S191 Introduction to Computational Thinking](https://computationalthinking.mit.edu/) course. It's online and free for anyone!
 
@@ -16,7 +16,7 @@ Before I started my PhD, I was a Principal Software Engineer at [Julia Computing
 
 ## Resume/Contact info
 
-[Resume](resume.pdf). You can email me at ~~~<emph>gowda<img style="width: 15px; height: 16px; padding:0; margin-bottom:-4px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/At_%28%40%29_symbol.svg/217px-At_%28%40%29_symbol.svg.png">mit.edu</emph>~~~. I hang out on the [Julia Language slack](http://slackinvite.julialang.org/) where my user name is @shashi. My Github profile is [here](https://github.com/shashi).
+[Resume is here](resume.pdf). You can email me at ~~~<emph>gowda<img style="width: 15px; height: 16px; padding:0; margin-bottom:-4px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/At_%28%40%29_symbol.svg/217px-At_%28%40%29_symbol.svg.png">mit.edu</emph>~~~. I hang out on the [Julia Language slack](http://slackinvite.julialang.org/) where my user name is @shashi. My Github profile is [here](https://github.com/shashi).
 
 ## Current projects
 
