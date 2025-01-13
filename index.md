@@ -4,21 +4,15 @@
 # Bio
 ~~~<img style="float: right; margin-bottom: 1em; width: 320px" src="/assets/pp.jpg">~~~
 
-I am a PhD student in Computational Science and Engineering at MIT advised by [Prof. Alan Edelman](http://www-math.mit.edu/~edelman/). I sit in CSAIL (7th Floor julia lab--come say hi!).
+I'm an AI/UX Engineer at <a href="https://sailplane.ai">Sailplane PBC</a> (I know, it's very stealth! (: ). My passion is crafting tools that people can use to make their lives more effective. I'm super excited by AI's newfound abilities to do this. I believe we can achieve utopian quality of human life with AI (here I look to Asimov's beautiful vision in [I, Robot](https://www.goodreads.com/book/show/41804.I_Robot)). I do not believe current AI companies see this picture, yet. In the past, I built scientific software at [JuliaHub](https://juliahub.com) and [MIT](https://julia.mit.edu).
 
-I'm exploring the application of symbolic computing and partial evaluation to generate, reason about, and optimize numerical software.
+I have a PhD in Computational Science and Mathematics from MIT, where I was advised by [Prof. Alan Edelman](http://www-math.mit.edu/~edelman/). My <a href="/thesis.pdf">thesis</a> explores the application of symbolic computing and partial evaluation to generate, reason about, and optimize numerical software. I love knowing about every level of abstraction of computers -- from registers and cache lines to compilers and programming language design.  In Fall 2020, I was a teaching assistant for the [18.S191 Introduction to Computational Thinking](https://computationalthinking.mit.edu/) course. It's online and free for anyone!
 
-My vision for work is to make expression through code more accessible to broader groups of people: scientists, artists, educators, students whose work may benefit hugely from programs that are expressed informally and easily yet run efficiently. I am interested in the fields of program synthesis, symbolic systems, and programmable interpreters. I believe symbolic computing will be an increasingly re-accepted part of AI research and that we will see neural network architectures combine with symbolic computing and program synthesis like milk, sugar and chocolate, changing the way humans use computers.
+## Contact info
 
-I love knowing about every level of abstraction of computers -- from registers and cache lines to compilers and programming language design.  In Fall 2020, I was a teaching assistant for the [18.S191 Introduction to Computational Thinking](https://computationalthinking.mit.edu/) course. It's online and free for anyone!
+[Resume](resume.pdf). You can email me at ~~~<emph>shashig<img style="width: 15px; height: 16px; padding:0; margin-bottom:-4px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/At_%28%40%29_symbol.svg/217px-At_%28%40%29_symbol.svg.png">proton.meu</emph>~~~. My Github profile is [here](https://github.com/shashi).
 
-Before I started my PhD, I was a Principal Software Engineer at [Julia Computing](https://juliacomputing.com) where I co-developed [JuliaDB](https://juliadb.org/).
-
-## Resume/Contact info
-
-[Resume is here](resume.pdf). You can email me at ~~~<emph>gowda<img style="width: 15px; height: 16px; padding:0; margin-bottom:-4px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/At_%28%40%29_symbol.svg/217px-At_%28%40%29_symbol.svg.png">mit.edu</emph>~~~. I hang out on the [Julia Language slack](http://slackinvite.julialang.org/) where my user name is @shashi. My Github profile is [here](https://github.com/shashi).
-
-## Current projects
+## Open source projects
 
 These are projects I am currently working on. All these projects are in the Julia language.
 ~~~
@@ -29,7 +23,7 @@ These are projects I am currently working on. All these projects are in the Juli
 <div class="u-cols-4 u-margins">
     <a href="https://juliasymbolics.org/"><h3 class="u-highlight-medium">Symbolics</h3></a>
   <div>
-      (co-author with <a href="https://yingboma.github.io/">Yingbo Ma</a> and others) A fast and modern CAS for a fast and modern language. I am spending most of my time on this and related projects.
+      (co-author with <a href="https://yingboma.github.io/">Yingbo Ma</a> and others) A fast and modern CAS for a fast and modern language. This was my thesis project at MIT, currently powers 36 dependent projects in the [SciML ecosystem](https://sciml.ai).
   </div>
   <div>
       <a href="https://github.com/JuliaParallel/Symbolics.jl">Github</a> | <a href="https://juliasymbolics.org/">website</a>
@@ -76,12 +70,6 @@ These are projects I am currently working on. All these projects are in the Juli
       <a href="https://github.com/JuliaParallel/Dagger.jl">Github</a>
   </div>
 </div>
-
-~~~
-### Past projects
-
-Projects that I wrote, that I now only occasionally help maintain.
-~~~
 
         
 <div class="u-cols-4 u-margins">
