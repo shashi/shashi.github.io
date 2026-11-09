@@ -4,17 +4,16 @@
 # Bio
 ~~~<img style="float: right; margin-bottom: 1em; width: 320px" src="/assets/pp.jpg">~~~
 
-I'm an AI/UX Engineer at [Sailplane PBC](https://sailplane.ai) (I know, it's very stealth! (: ). My passion is crafting tools that people can use to make their lives more effective. I'm super excited by AI's newfound abilities to do this. I believe we can achieve utopian quality of human life with AI (here I look to Asimov's beautiful vision in [I, Robot](https://www.goodreads.com/book/show/41804.I_Robot)). I do not believe current AI companies see this picture, yet. In the past, I built scientific software at [JuliaHub](https://juliahub.com) and [MIT](https://julia.mit.edu).
+I'm a programming languages engineer. I love the power of the right abstraction to simplify and enable complex systems and workflows. Previously, I worked on Symbolic-numeric computing in Julia at MIT, where I built software that helps scientists generate physics simulations at scale. I was advised by [Prof. Alan Edelman](http://www-math.mit.edu/~edelman/). My [thesis](/phd-thesis.pdf) explores the application of symbolic computing and partial evaluation to generate, reason about, and optimize numerical software.
 
-I have a PhD in Computational Science and Mathematics from MIT, where I was advised by [Prof. Alan Edelman](http://www-math.mit.edu/~edelman/). My [thesis](/phd-thesis.pdf) explores the application of symbolic computing and partial evaluation to generate, reason about, and optimize numerical software. I love knowing about every level of abstraction of computers -- from registers and cache lines to compilers and programming language design.  In Fall 2020, I was a teaching assistant for the [18.S191 Introduction to Computational Thinking](https://computationalthinking.mit.edu/) course. It's online and free for anyone!
+I believe we can achieve utopian quality of human life with AI (here I look to Asimov's vision in I, Robot). In my free time [I](https://mrida.ai) [build](https://github.com/shashi/sbtel) [tools](#) to make working with them easier, sharable, and down to earth.
 
-## Contact info
+Currently I'm a product engineer at [AthenaHQ](https://athenahq.ai), and live in San Francisco.
 
-[Resume](resume.pdf). You can email me at ~~~<emph>shashig<img style="width: 15px; height: 16px; padding:0; margin-bottom:-4px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/At_%28%40%29_symbol.svg/217px-At_%28%40%29_symbol.svg.png">proton.meu</emph>~~~. My Github profile is [here](https://github.com/shashi).
+You can contact me over X or LinkedIn. Or follow [@shashi](https://github.com/shashi) on Github.
 
 ## Open source projects
 
-These are projects I am currently working on. All these projects are in the Julia language.
 ~~~
 
  <div class="u-container">
@@ -71,14 +70,14 @@ These are projects I am currently working on. All these projects are in the Juli
   </div>
 </div>
 
-        
+
 <div class="u-cols-4 u-margins">
     <a href="https://github.com/JuliaGizmos/Interact.jl/issues/36"><h3 class="u-highlight-medium text-gray-3">Interact</h3></a>
   <div>
       Manipulate output with simple widgets in Jupyter
   </div>
   <div>
-      
+
       <a href="https://github.com/JuliaGizmos/Interact.jl/issues/36">Examples</a> |
       <a href="https://github.com/JuliaGizmos/Interact.jl">Github</a>
   </div>
@@ -101,7 +100,7 @@ These are projects I am currently working on. All these projects are in the Juli
       Fast just-in-time generated CSV parser for Julia.
   </div>
   <div>
-      
+
       <a href="https://juliacomputing.com/TextParse.jl/latest">Website</a> |
       <a href="https://github.com/JuliaComputing/TextParse.jl">Github</a>
   </div>
@@ -118,14 +117,14 @@ These are projects I am currently working on. All these projects are in the Juli
 </div>
 
 
-        
+
 <div class="u-cols-4 u-margins">
     <a href="http://escher-jl.org"><h3 class="u-highlight-medium text-gray-3">Escher</h3></a>
   <div>
       (dormant) experiments in web-based UIs
   </div>
   <div>
-      
+
       <a href="http://escher-jl.org">Website</a> |
       <a href="https://github.com/shashi/Escher.jl">Github</a>
   </div>
