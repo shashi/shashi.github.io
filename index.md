@@ -10,7 +10,7 @@ I believe we can achieve utopian quality of human life with AI (here I look to A
 
 Currently I'm a product engineer at [AthenaHQ](https://athenahq.ai), and live in San Francisco.
 
-You can contact me over X or LinkedIn. Or follow [@shashi](https://github.com/shashi) on Github.
+You can contact me over [X](https://x.com/the_gowds) or [LinkedIn](https://www.linkedin.com/in/g0wda/). Or follow [@shashi](https://github.com/shashi) on Github.
 
 ## Open source projects
 
